@@ -1,0 +1,93 @@
+    1  pwd
+    2  ls
+    3  cd Desktop/
+    4  pwd
+    5  cd ../python
+    6  cd Desktop
+    7  cd D
+    8  cd Desktop/
+    9  pwd
+   10  cd Desktop
+   11  cd..
+   12  cd..
+   13  pcd..
+   14  ls
+   15  pwdf
+   16  pwd
+   17  cd ../Desktop
+   18  ls
+   19  cd Problem solving and programming
+   20  cd Problemsolvingandprogramming
+   21  mkdir Problemsolvingandprogramming
+   22  cd
+   23  cd Desktop/
+   24  ls
+   25  rm -rf Problemsolvingandprogramming
+   26  ls
+   27  cd Problemsolvingandprogramming
+   28  ls
+   29  cd Problemsolvingandprogramming
+   30  cd Problemsolvingandprogramming/
+   31  cd ../Problemsolvingandprogramming/
+   32  cd ../Problemsolvingandprograming/
+   33  cd Problemsolvingandprograming
+   34  mkdir Git
+   35  cd Git
+   36  Git --version
+   37  Git config --list
+   38  Git config user.name
+   39  Git config --global user.name "masrinadhamulya"
+   40  Git config user.name
+   41  Git config user.email
+   42  Git config --global user.email msrinathamulya@gmail.com
+   43  Git config user.gmail
+   44  Git config user.email
+   45  pwd
+   46  touch file1.txt
+   47  ls
+   48  Git init
+   49  Git status
+   50  Git add file1.txt
+   51  Gti status
+   52  Git status
+   53  Git commit -m "first file commit"
+   54  Git status
+   55  echo "data in line 1" > file1.txt
+   56  cat file1.txt
+   57  Git status
+   58  Git add file1.txt
+   59  Git status
+   60  Git commit -m "file1 second commit"
+   61  Git status
+   62  Git log
+   63  touch file{2..10}.txt
+   64  ls
+   65  touch file{11..100}.txt
+   66  ls
+   67  rm file{11..100}.txt
+   68  ls
+   69  Git status
+   70  Git add file{2..10}.txt
+   71  Git status
+   72  Git reset HEAD file{2..10}.txt
+   73  Git status
+   74  Git add file{2..10}.txt
+   75  Git status
+   76  Git commit -m "added 9 files"
+   77  Git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019/tree/master/PythonProgramming/NotebookTemplate
+   78  Git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019
+   79  ls
+   80  Git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019
+   81  SSSSSDFGHJKL;'
+   82  GIT
+   83  git
+   84  Git
+   85  y
+   86  pwd
+   87  cd Desktop
+   88  cd Problemsolvingandprograming/
+   89  cd Git
+   90  ls
+   91  Git log
+   92  history 100
+   93  history 100 > Git-commands.txt
